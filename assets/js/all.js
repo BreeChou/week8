@@ -1,10 +1,11 @@
+"use strict";
+
 $(function () {
   // $(window).resize(function () {
   //   if (jQuery(window).width() > 768) {
   //       $("h1").removeClass("d-none");
   //   } 
   // });
-
   // $(".search").click(function (e) {
   //   e.preventDefault();
   //   if (jQuery(window).width() < 768) {
@@ -28,3 +29,4 @@ $(function () {
     $(this).toggleClass("table-turn");
   });
 });
+//# sourceMappingURL=all.js.map
